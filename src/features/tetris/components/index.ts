@@ -1,0 +1,1 @@
+export { TetrisGameLayout } from './gameLayout';
